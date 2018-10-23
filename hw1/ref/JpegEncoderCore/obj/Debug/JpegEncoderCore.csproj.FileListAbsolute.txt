@@ -1,0 +1,8 @@
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\bin\Debug\JpegEncoderCore.dll
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\bin\Debug\JpegEncoderCore.pdb
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.csprojAssemblyReference.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.Properties.Resources.resources
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.csproj.GenerateResource.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.csproj.CoreCompileInputs.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.dll
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderCore\obj\Debug\JpegEncoderCore.pdb

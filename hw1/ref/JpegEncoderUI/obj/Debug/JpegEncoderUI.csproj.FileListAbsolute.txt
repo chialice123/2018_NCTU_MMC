@@ -1,0 +1,13 @@
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\bin\Debug\JpegEncoderUI.exe
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\bin\Debug\JpegEncoderUI.pdb
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\bin\Debug\JpegEncoderCore.dll
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\bin\Debug\JpegEncoderCore.pdb
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.csprojAssemblyReference.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\EncoderUI.AboutBox.resources
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\EncoderUI.Form1.resources
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\EncoderUI.Properties.Resources.resources
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.csproj.GenerateResource.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.csproj.CoreCompileInputs.cache
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.csproj.CopyComplete
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.exe
+C:\Document.Course\Multimedia Communications\project1\me\JpegEncoderUI\obj\Debug\JpegEncoderUI.pdb

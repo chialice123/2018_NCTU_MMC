@@ -1,0 +1,20 @@
+There are two type of codes
+1: MATLAB
+please open MMC and replace the input file name ('input.bmp') in line 2
+
+This code is following the website TA provided.
+However, I encountered some problem with DCT and IDCT, and also grayscale picture.
+There will be imagine parts. 
+I tried to truncate the imagine part directly or calculate the absolute value of complex, but both appear some severe difference with pictures.
+There's green lines at right and down sides.
+
+the output.jpeg is until downsample
+the output1.jpeg is all finished until Huffman.
+
+
+2: CPP 
+I use Visual Studio C++ to compile and the .exe file is also already included.
+just run the .exe and type the input file name.
+I use gdiplus library to do the program.
+
+The result picture output.jpeg is way better than MATLAB one.

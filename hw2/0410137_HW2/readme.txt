@@ -1,0 +1,3 @@
+ I still cannot figure out Java, and, not to mention, use Java to do a RTP client-server with RTP protocol.
+ Thus, I try to fill up the RTPpacket and read video part, but I'm not sure if it's right.
+ sorry >< I've tried....
