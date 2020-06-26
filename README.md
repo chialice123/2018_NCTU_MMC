@@ -1,3 +1,3 @@
-# 2018_NCTU_MMC
-multimedia communication
-C#, MATLAB, ... etc
+# Multimedia Communication 2018
+
+NCTU CS Multimedia Communication (grad) assignments
